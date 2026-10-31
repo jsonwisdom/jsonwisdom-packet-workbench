@@ -1,0 +1,16 @@
+﻿{
+    "protocol":  "LDP-1-v1.0",
+    "audit":  "AUDIT-022",
+    "network":  "Base Mainnet",
+    "schemaUID":  "0x423009c70c9184e5df4e1e295b2c678476110ea6f578a09c2e6e18bcbceeda45",
+    "attestationUID":  "0x5ccb68c6cb1f6b4270112df407c2f19e024ac225fc13b4807ce852786fd1773b",
+    "transactionHash":  "0x9b477155bcc95f90483dfa8301f9b367890bf2794dcb087c1ae3aa799bed5dd6",
+    "attester":  "0x0F7018fea1dc9ba32aE817D896211f72f1197AD8",
+    "schemaHash":  "0xa4264d782f9bc8626680e5a6ba863ac83aea50840ed5e2a483928e75bcb1f21b",
+    "manifestHash":  "0x0b2cf02734fe2370a8e2621f4d0fbdc17550e1263902f1aae49a4de3575c97a4",
+    "manifestCID":  "bafkreialftyconh6enykrytcd5gq7poboviocjrzaly2vze2jxrvoxexuq",
+    "verificationStatus":  "TEST_VECTORS_ONLY_FULL_INTEGRATION_PENDING",
+    "evidenceSource":  "USER_SUPPLIED_EAS_RECEIPT",
+    "independentChainVerification":  false,
+    "authorityCreated":  false
+}
